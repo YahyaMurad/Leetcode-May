@@ -7,3 +7,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 2nd May
 - [Largest Positive Integer That Exists With Its Negative (Easy)](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=daily-question&envId=2024-05-02)
+
+## 3rd May
+- [Compare Version Numbers (Medium)](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03)

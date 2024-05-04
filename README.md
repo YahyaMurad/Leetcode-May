@@ -10,3 +10,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 3rd May
 - [Compare Version Numbers (Medium)](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2024-05-03)
+
+## 4th May
+- [Boats to Save People (Medium)](https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04)

@@ -13,3 +13,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 4th May
 - [Boats to Save People (Medium)](https://leetcode.com/problems/boats-to-save-people/description/?envType=daily-question&envId=2024-05-04)
+
+## 5th May
+- [Delete Node in a Linked List (Medium)](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05)

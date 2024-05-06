@@ -16,3 +16,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 5th May
 - [Delete Node in a Linked List (Medium)](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=daily-question&envId=2024-05-05)
+
+## 6th May
+- [Remove Nodes From Linked List (Medium)](https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06)

@@ -19,3 +19,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 6th May
 - [Remove Nodes From Linked List (Medium)](https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06)
+
+## 7th May
+- [RDouble a Number Represented as a Linked List (Medium)](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description/?envType=daily-question&envId=2024-05-07)

@@ -25,3 +25,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 8th May
 - [Relative Ranks (Easy)](https://leetcode.com/problems/relative-ranks/description/?envType=daily-question&envId=2024-05-08)
+
+## 9th May
+- [Maximize Happiness of Selected Children (Medium)](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2024-05-09)

@@ -31,3 +31,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 10th May
 - [K-th Smallest Prime Fraction (Medium)](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/?envType=daily-question&envId=2024-05-10)
+
+## 11th May
+- [Minimum Cost to Hire K Workers (Hard)](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11)

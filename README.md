@@ -34,3 +34,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 11th May
 - [Minimum Cost to Hire K Workers (Hard)](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/?envType=daily-question&envId=2024-05-11)
+
+## 12th May
+- [Largest Local Values in a Matrix (Easy)](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12)

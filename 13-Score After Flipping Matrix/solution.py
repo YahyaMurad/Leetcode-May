@@ -20,8 +20,3 @@ class Solution:
                 res += grid[i][j] << (len(grid[0]) - j - 1)
 
         return res
-
-
-
-sol = Solution()
-print(sol.matrixScore([[0,1,1],[1,1,1],[0,1,0]]))

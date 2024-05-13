@@ -37,3 +37,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 12th May
 - [Largest Local Values in a Matrix (Easy)](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/?envType=daily-question&envId=2024-05-12)
+
+## 13th May
+- [Score After Flipping Matrix (Medium)](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13)

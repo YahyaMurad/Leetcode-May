@@ -43,3 +43,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 14th May
 - [Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold/submissions/1257877492/?envType=daily-question&envId=2024-05-14)
+
+## 15th May
+- [Find the Safest Path in a Grid (Medium)](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)

@@ -40,3 +40,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 13th May
 - [Score After Flipping Matrix (Medium)](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=daily-question&envId=2024-05-13)
+
+## 14th May
+- [Path with Maximum Gold (Medium)](https://leetcode.com/problems/path-with-maximum-gold/submissions/1257877492/?envType=daily-question&envId=2024-05-14)

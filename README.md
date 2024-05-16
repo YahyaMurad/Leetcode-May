@@ -46,6 +46,9 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 15th May
 - [Find the Safest Path in a Grid (Medium)](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2024-05-15)
-E
+
 ## 16th May
 - [Evaluate Boolean Binary Tree (Easy)](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16)
+
+## 17th May
+- [Delete Leaves With a Given Value (Medium)](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/?envType=daily-question&envId=2024-05-17)

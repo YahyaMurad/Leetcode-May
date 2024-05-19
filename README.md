@@ -55,3 +55,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 18th May
 - [Distribute Coins in Binary Tree (Medium)](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)
+
+## 19th May
+- [Find the Maximum Sum of Node Values (Hard)](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19)

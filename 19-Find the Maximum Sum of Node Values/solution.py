@@ -1,5 +1,5 @@
 class Solution:
-    def maximumValueSum(self, nums: List[int], k: int, edges: List[List[int]]) -> int:
+    def maximumValueSum(self, nums, k, edges):
         total = sum(nums)
         
         total_diff = 0

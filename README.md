@@ -58,3 +58,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 19th May
 - [Find the Maximum Sum of Node Values (Hard)](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2024-05-19)
+
+## 20th May
+- [Sum of All Subset XOR Totals (Easy)](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20)

@@ -61,3 +61,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 20th May
 - [Sum of All Subset XOR Totals (Easy)](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2024-05-20)
+
+## 21st May
+- [Subsets (Medium)](https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=2024-05-21)

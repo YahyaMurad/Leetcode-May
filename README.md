@@ -64,3 +64,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 21st May
 - [Subsets (Medium)](https://leetcode.com/problems/subsets/description/?envType=daily-question&envId=2024-05-21)
+
+## 22nd May
+- [Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22)

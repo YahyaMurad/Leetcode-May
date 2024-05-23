@@ -67,3 +67,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 22nd May
 - [Palindrome Partitioning (Medium)](https://leetcode.com/problems/palindrome-partitioning/description/?envType=daily-question&envId=2024-05-22)
+
+## 23rd May
+- [The Number of Beautiful Subsets (Medium)](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)

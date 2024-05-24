@@ -70,3 +70,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 23rd May
 - [The Number of Beautiful Subsets (Medium)](https://leetcode.com/problems/the-number-of-beautiful-subsets/description/?envType=daily-question&envId=2024-05-23)
+
+## 24th May
+- [Maximum Score Words Formed by Letters (Hard)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=daily-question&envId=2024-05-24)

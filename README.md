@@ -73,3 +73,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 24th May
 - [Maximum Score Words Formed by Letters (Hard)](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=daily-question&envId=2024-05-24)
+
+## 25th May
+- [Word Break II (Hard)](https://leetcode.com/problems/word-break-ii/?envType=daily-question&envId=2024-05-25)

@@ -79,3 +79,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 26th May
 - [Student Attendance Record II (Hard)](https://leetcode.com/problems/student-attendance-record-ii/?envType=daily-question&envId=2024-05-26)
+
+## 27th May
+- [Special Array With X Elements Greater Than or Equal X (Easy)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=daily-question&envId=2024-05-27)

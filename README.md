@@ -83,5 +83,8 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 ## 27th May
 - [Special Array With X Elements Greater Than or Equal X (Easy)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/?envType=daily-question&envId=2024-05-27)
 
+## 28th May
+- [Get Equal Substrings Within Budget (Medium)](https://leetcode.com/problems/get-equal-substrings-within-budget/description/?envType=daily-question&envId=2024-05-28)
+
 ## 29th May
 - [Number of Steps to Reduce a Number in Binary Representation to One (Medium)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29)

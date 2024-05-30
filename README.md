@@ -88,3 +88,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 29th May
 - [Number of Steps to Reduce a Number in Binary Representation to One (Medium)](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2024-05-29)
+
+## 30th May
+- [Count Triplets That Can Form Two Arrays of Equal XOR (Medium)](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=daily-question&envId=2024-05-30)
